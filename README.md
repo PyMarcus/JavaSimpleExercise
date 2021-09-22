@@ -1,0 +1,2 @@
+# JavaSimpleExercise
+Just a pratice
